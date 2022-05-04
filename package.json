@@ -16,5 +16,13 @@
     "todo-list"
   ],
   "author": "fangcw666@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "rollup",
+        "postcss"
+      ]
+    }
+  }
 }
