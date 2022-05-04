@@ -32,7 +32,7 @@ git clone git@github.com:fangcw/todo.git
 cd /todo
 pnpm install
 
-# 启动后端服务，监听本地 5000 端口，请自行下载 MongoDB，并开启数据库服务
+# 启动后端服务，监听本地 3000 端口，请自行下载 MongoDB，并开启数据库服务
 pnpm dev:server
 
 # 启动 Vue 项目
