@@ -1,5 +1,5 @@
 {
-  "name": "todo-list",
+  "name": "todo",
   "version": "1.0.0",
   "description": "A Vue3 + Typsscript + Pinia + MongoDB project",
   "main": "index.js",
